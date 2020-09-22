@@ -66,6 +66,3 @@ I think that empowerment is a very effective tool in a team, because it can fost
 
 
 
-
-</body>
-</html>
