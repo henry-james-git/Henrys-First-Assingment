@@ -50,7 +50,7 @@ I will likely have to collaborate on some relevant independent projects either d
 
 </p>
 <h1>Profile</h1><br>
-<img src="url" alt="alternatetext">
+<img src="https://drive.google.com/file/d/1GFR0zEi_IyepUBOuonLwTKNQ1SPSMVII/view?usp=sharing" alt="16 Personalities result">
 <p>According to the results of a Myers-Briggs test (https://www.16personalities.com/) I have a Mediator type personality (INFP-T). According to 16 Personalities, a Mediator is defined as a diplomat who values constant improvement. An idealist who tries to see the best in things, mediator is able to work well in a team with their communication skills and philosophical thinking.
 <br><br>
 The My Learning Style test (http://www.emtrain.eu/learning-styles/) indicated that my primary learning style is Activist. Pragmatic and team based approaches to problem solving are strong in this category, with preferred learning methods like brainstorming, problem setting and group discussions. According to this test I am also associated with the reflector, pragmatist and theorist styles of learning. 
