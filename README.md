@@ -53,7 +53,7 @@ I will likely have to collaborate on some relevant independent projects either d
 <br><br>
   <img src="Learning.jpg"><br><br>
 The My Learning Style test (http://www.emtrain.eu/learning-styles/) indicated that my primary learning style is Activist. Pragmatic and team based approaches to problem solving are strong in this category, with preferred learning methods like brainstorming, problem setting and group discussions. According to this test I am also associated with the reflector, pragmatist and theorist styles of learning. 
-<br><br>
+
 <br><br> <a href="https://drive.google.com/file/d/1YRv7rS_6WxZ5t5iXsjIgaQbZ20_u3mpM/view?usp=sharing">Leadership Style Quiz Results</a><br><br>
 Finally USCS Leadership Style quiz (https://eml.usc.edu/leadership-style-quiz) indicated that I would possess a Frontline leadership style. In short, this leadership style involves team member empowerment and uniting them under a shared vision with effective verbal communication.
 <br><br>
