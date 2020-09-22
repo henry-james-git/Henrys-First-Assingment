@@ -18,7 +18,8 @@ RMIT became my place of choice to study because of its history as a reputable in
 
 During my time at UNI I hope to gain a strong understanding of some common programming languages, with a particular focus on front end development for apps and websites. I am also interested in Network and Systems administration, I hope to develop deeper knowledge running and maintaining servers. On a personal level, I’m interested in the the social and ethical impacts of a technology based world. </p>
 <h1>Ideal Job</h1>
-<a href="https://www.seek.com.au/job/50560719?type=standout#searchRequestToken=a5b70448-191b-4c72-8556-594bd8955429
+<a href="https://www.seek.com.au/job/50560719?type=standout#searchRequestToken=a5b70448-191b-4c72-8556-594bd8955429 <br> <br>
+ <img src="Cluey.jpg"><br><br>        
 ">Front End Developer</a><br><br>
 What makes this job appealing to me? <br><br>
 
