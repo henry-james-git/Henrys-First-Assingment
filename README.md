@@ -18,9 +18,9 @@ RMIT became my place of choice to study because of its history as a reputable in
 
 During my time at UNI I hope to gain a strong understanding of some common programming languages, with a particular focus on front end development for apps and websites. I am also interested in Network and Systems administration, I hope to develop deeper knowledge running and maintaining servers. On a personal level, I’m interested in the the social and ethical impacts of a technology based world. </p>
 <h1>Ideal Job</h1>
-<a href="https://www.seek.com.au/job/50560719?type=standout#searchRequestToken=a5b70448-191b-4c72-8556-594bd8955429 <br> <br>
- <img src="Cluey.jpg"><br><br>        
-">Front End Developer</a><br><br>
+<a href="https://www.seek.com.au/job/50560719?type=standout#searchRequestToken=a5b70448-191b-4c72-8556-594bd8955429">Front End Developer</a><br><br>
+<br> <br>
+ <img src="Cluey.jpg"><br><br> 
 What makes this job appealing to me? <br><br>
 
 This advertisement from Cluey Learning stood out to me as an ideal job. It is a team based role with a focus on developing visual interfaces for their online tutoring app and website. The goal of a job like this would to make an interface that is equally engaging and visually appealing for the user. 
@@ -54,7 +54,8 @@ I will likely have to collaborate on some relevant independent projects either d
   <img src="Learning.jpg"><br><br>
 The My Learning Style test (http://www.emtrain.eu/learning-styles/) indicated that my primary learning style is Activist. Pragmatic and team based approaches to problem solving are strong in this category, with preferred learning methods like brainstorming, problem setting and group discussions. According to this test I am also associated with the reflector, pragmatist and theorist styles of learning. 
 <br><br>
-    <img src="Frontline Leader.jpg"><br><br>
+<br><br> <a href="https://drive.google.com/file/d/1YRv7rS_6WxZ5t5iXsjIgaQbZ20_u3mpM/view?usp=sharing">Leadership Style Quiz Results</a><br><br>
+<br> <br>
 Finally USCS Leadership Style quiz (https://eml.usc.edu/leadership-style-quiz) indicated that I would possess a Frontline leadership style. In short, this leadership style involves team member empowerment and uniting them under a shared vision with effective verbal communication.
 <br><br>
 I think these tests are reasonably in line with traits I see in myself personally, especially in regards to how I best learn.
