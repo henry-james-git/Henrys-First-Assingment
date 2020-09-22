@@ -50,13 +50,13 @@ I will likely have to collaborate on some relevant independent projects either d
 
 </p>
 <h1>Profile</h1><br>
-<img src="16 personalities.jpg"><br><br>
+<img src="16 Personalities.jpg"><br><br>
 <p>According to the results of a Myers-Briggs test (https://www.16personalities.com/) I have a Mediator type personality (INFP-T). According to 16 Personalities, a Mediator is defined as a diplomat who values constant improvement. An idealist who tries to see the best in things, mediator is able to work well in a team with their communication skills and philosophical thinking.
 <br><br>
-  <img src="Learning Styles.jpg"><br><br>
+  <img src="Learning styles.jpg"><br><br>
 The My Learning Style test (http://www.emtrain.eu/learning-styles/) indicated that my primary learning style is Activist. Pragmatic and team based approaches to problem solving are strong in this category, with preferred learning methods like brainstorming, problem setting and group discussions. According to this test I am also associated with the reflector, pragmatist and theorist styles of learning. 
 <br><br>
-    <img src="Leadership style.jpg"><br><br>
+    <img src="Frontline Leader.jpg"><br><br>
 Finally USCS Leadership Style quiz (https://eml.usc.edu/leadership-style-quiz) indicated that I would possess a Frontline leadership style. In short, this leadership style involves team member empowerment and uniting them under a shared vision with effective verbal communication.
 <br><br>
 I think these tests are reasonably in line with traits I see in myself personally, especially in regards to how I best learn.
