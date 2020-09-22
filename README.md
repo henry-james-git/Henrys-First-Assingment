@@ -59,7 +59,7 @@ Finally, a <a href="https://eml.usc.edu/leadership-style-quiz">Leadership quiz</
 <i>What do the results of these tests mean for you? </i> <br> <br>
 I think these tests are reasonably in line with traits I see in myself personally, especially in regards to how I best learn. 
 
-<br><br>
+<br>
 <i>How do you think these results may influence your behaviour in a team?</i><br><br>
 Looking back on personal experiences I definitely see examples of these results manifesting in previous team situations. I am someone in a team who can help others explore their ideas, and communicate them with team members who may think differently. I may also contribute outside of the box ideas that will be a valued in brainstorming and group discussions. 
 <br><br>
