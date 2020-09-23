@@ -99,7 +99,7 @@ References: <br><br>
 
 Kat V and Cara R 2017,<i> How many professional filmmakers are there globally? And how many by each major region?</i>, Ask Wonder 23 August, viewed September 19 2020 <https://askwonder.com/research/professional-filmmakers-globally-major-region-w6qs3lel4><br><br>
 
-Constine, Josh 2018,<i> Instead of Stealing Instruments, Musicians Turn to Splice</i>, Tech Crunch, 16 April, viewed 19 September 2020, <https://techcrunch.com/2018/04/16/splice-sounds/ >.<br><br>
+Constine, Josh 2018,<i> Instead of Stealing Instruments, Musicians Turn to Splice</i>, Tech Crunch, 16 April, viewed 19 September 2020, <https://techcrunch.com/2018/04/16/splice-sounds/ ><br><br>
 
 Lunden, I 2019, <i>Epidemic Sound raises $20M at a $370M valuation for its soundtrack music discovery and licensing platform</i>, Tech Crunch, 01 July, viewed 19 September, 2020 < https://tcrn.ch/2Jkowsx><br><br>
 
@@ -116,12 +116,12 @@ Rouse 2010, M <i>PRM File Format</i>, Tech Target, 01 September, viewed Septembe
 Toolfarm 2014,<i> In Depth: Plug-ins Adobe After Effects CC and Premier PRO CC</i>, Toolfarm 04/02, viewed September 19, 2020 <https://www.toolfarm.com/tutorial/in_depth_plug_ins_adobe_after_effects_cc_and_premiere_pro_cc/><br><br>
 Waves 2020, <i>How to Find Your Plugins in Adobe Audition or Premier</i>, Waves 05/07, viewed 19 September 2020 <https://www.waves.com/support/how-to-find-your-plugins-in-adobe-audition><br><br>
 
-Glyzko, N 2020, <i>How Much Does it Cost to Rent a Server?</i>Server Mania 24/06, viewed 19 September 2020< https://www.servermania.com/kb/articles/how-much-does-it-cost-to-rent-a-server/><br><br>
-Google, n.d., Price List</i>, Google, viewed 19 Sept 2020, < https://cloud.google.com/pricing/list ><br><br>
+Glyzko, N 2020, <i>How Much Does it Cost to Rent a Server? </i>Server Mania 24/06, viewed 19 September 2020< https://www.servermania.com/kb/articles/how-much-does-it-cost-to-rent-a-server/><br><br>
+Google, n.d., <i>Price List</i>, Google, viewed 19 Sept 2020, <br> <https://cloud.google.com/pricing/list ><br><br>
 
 Toor, A 2016, <i>Spotify is Moving its Data to Google’s Servers</i>, The Verge 24/02, viewed September 19 2020,  <https://www.theverge.com/2016/2/24/11104446/spotify-google-cloud-platform><br><br>
 
-Crawley, C <i>Audio File Size Calculator</i>, Colin Crawley n.d, viewed 19 September 2020,  <https://www.colincrawley.com/audio-file-size-calculator/><br><br>
+Crawley, C <i>Audio File Size Calculator</i>, Colin Crawley, n.d, viewed 19 September 2020,  <https://www.colincrawley.com/audio-file-size-calculator/><br><br>
 
 
 
