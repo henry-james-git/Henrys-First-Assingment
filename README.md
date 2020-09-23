@@ -4,7 +4,7 @@
 
 
 
-<h1>Personal Information</h1>
+<h1>My Profile</h1>
 Henry Robinson  <br> 
 Email: s3872400@student.rmit.edu.au <br>
 Nationality: Australian <br>
